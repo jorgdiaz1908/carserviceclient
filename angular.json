@@ -115,6 +115,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "CarServiceClient"
+    }
+  },
+  "defaultProject": "CarServiceClient",
+  "cli": {
+    "analytics": "a3db4e07-8a13-4491-9edb-14f97270d38d"
+  }
 }
